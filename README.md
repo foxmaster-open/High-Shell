@@ -8,7 +8,7 @@
 
 1. **下载项目**
    ```bash
-   wget https://codeberg.org/master_fox/High-Shell/archive/main.zip
+   wget https://codeberg.org/master_fox/High-Shell/archive/main.zip #主仓库
    unzip main.zip
    cd High-Shell
 
